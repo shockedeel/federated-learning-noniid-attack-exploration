@@ -1,0 +1,120 @@
+Number of occurences for vals in column 0 is: 0    144593
+1     18177
+Name: 0, dtype: int64
+Number of occurences for vals in column 1 is: 0    119492
+1     43278
+Name: 1, dtype: int64
+Number of occurences for vals in column 2 is: 1    83603
+0    79167
+Name: 2, dtype: int64
+Number of occurences for vals in column 3 is: 0    129490
+1     33280
+Name: 3, dtype: int64
+Number of occurences for vals in column 4 is: 0    159057
+1      3713
+Name: 4, dtype: int64
+Number of occurences for vals in column 5 is: 0    138085
+1     24685
+Name: 5, dtype: int64
+Number of occurences for vals in column 6 is: 0    123557
+1     39213
+Name: 6, dtype: int64
+Number of occurences for vals in column 7 is: 0    124429
+1     38341
+Name: 7, dtype: int64
+Number of occurences for vals in column 8 is: 0    123864
+1     38906
+Name: 8, dtype: int64
+Number of occurences for vals in column 9 is: 0    138503
+1     24267
+Name: 9, dtype: int64
+Number of occurences for vals in column 10 is: 0    154408
+1      8362
+Name: 10, dtype: int64
+Number of occurences for vals in column 11 is: 0    129578
+1     33192
+Name: 11, dtype: int64
+Number of occurences for vals in column 12 is: 0    139384
+1     23386
+Name: 12, dtype: int64
+Number of occurences for vals in column 13 is: 0    153381
+1      9389
+Name: 13, dtype: int64
+Number of occurences for vals in column 14 is: 0    155199
+1      7571
+Name: 14, dtype: int64
+Number of occurences for vals in column 15 is: 0    152249
+1     10521
+Name: 15, dtype: int64
+Number of occurences for vals in column 16 is: 0    152433
+1     10337
+Name: 16, dtype: int64
+Number of occurences for vals in column 17 is: 0    155874
+1      6896
+Name: 17, dtype: int64
+Number of occurences for vals in column 18 is: 0    100215
+1     62555
+Name: 18, dtype: int64
+Number of occurences for vals in column 19 is: 0    89125
+1    73645
+Name: 19, dtype: int64
+Number of occurences for vals in column 20 is: 0    94509
+1    68261
+Name: 20, dtype: int64
+Number of occurences for vals in column 21 is: 0    84284
+1    78486
+Name: 21, dtype: int64
+Number of occurences for vals in column 22 is: 0    156128
+1      6642
+Name: 22, dtype: int64
+Number of occurences for vals in column 23 is: 0    143901
+1     18869
+Name: 23, dtype: int64
+Number of occurences for vals in column 24 is: 1    135779
+0     26991
+Name: 24, dtype: int64
+Number of occurences for vals in column 25 is: 0    116669
+1     46101
+Name: 25, dtype: int64
+Number of occurences for vals in column 26 is: 0    155765
+1      7005
+Name: 26, dtype: int64
+Number of occurences for vals in column 27 is: 0    117924
+1     44846
+Name: 27, dtype: int64
+Number of occurences for vals in column 28 is: 0    149730
+1     13040
+Name: 28, dtype: int64
+Number of occurences for vals in column 29 is: 0    152245
+1     10525
+Name: 29, dtype: int64
+Number of occurences for vals in column 30 is: 0    153614
+1      9156
+Name: 30, dtype: int64
+Number of occurences for vals in column 31 is: 0    84690
+1    78080
+Name: 31, dtype: int64
+Number of occurences for vals in column 32 is: 0    128823
+1     33947
+Name: 32, dtype: int64
+Number of occurences for vals in column 33 is: 0    110788
+1     51982
+Name: 33, dtype: int64
+Number of occurences for vals in column 34 is: 0    132408
+1     30362
+Name: 34, dtype: int64
+Number of occurences for vals in column 35 is: 0    154731
+1      8039
+Name: 35, dtype: int64
+Number of occurences for vals in column 36 is: 0    86333
+1    76437
+Name: 36, dtype: int64
+Number of occurences for vals in column 37 is: 0    143006
+1     19764
+Name: 37, dtype: int64
+Number of occurences for vals in column 38 is: 0    150880
+1     11890
+Name: 38, dtype: int64
+Number of occurences for vals in column 39 is: 1    126788
+0     35982
+Name: 39, dtype: int64
