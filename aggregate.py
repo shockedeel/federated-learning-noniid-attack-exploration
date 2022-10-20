@@ -30,6 +30,6 @@ def aggregate(global_model,agent_updates_dict, t, agent_data_sizes):
     update=agg_sign(agent_updates_dict)
 
   cur_global_params = torch.nn.utils.parameters_to_vector(global_model.parameters())
-  new_global_params =  (cur_global_params + lr*update).float()
+  new_global_params =  (cur_global_params + lr*update).double()
   torch.nn.utils.vector_to_parameters(new_global_params, global_model.parameters())
   return
